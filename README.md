@@ -2,7 +2,7 @@
 
 INTELIGENCIA ARTIFICIAL APLICADA A LA SELECCIÓN DE BECADOS: UNA PROPUESTA DE OPTIMIZACIÓN DEL PROGRAMA DE BECAS EN EAFIT
 
-**Luz Adriana Yepes Arias**
+**Autora: Luz Adriana Yepes Arias**
 
 Este repositorio contiene los notebooks, datos procesados y modelos utilizados para el desarrollo del proyecto de grado “Inteligencia artificial aplicada a la selección de becados: una propuesta de optimización del programa de Becas en EAFIT”.
 
