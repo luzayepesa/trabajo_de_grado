@@ -14,11 +14,11 @@ Cada notebook cumple una función específica dentro del proceso:
 
 + El archivo EDA_proyecto_de_grado desarrolla el análisis exploratorio completo, la limpieza de variables, ingeniería de caracteristicas y definición final de los df_model utilizados posteriormente en la etapa de modelado.
 
-+ El notebook Modelos_clasificación_AprobadavsNegada predice si un aspirante será aprobado o negado, implementando varios algoritmos de clasificación y comparando su desempeño.
++ El notebook Modelo_1_clasificación_AprobadavsNegada predice si un aspirante será aprobado o negado, implementando varios algoritmos de clasificación y comparando su desempeño.
 
-+ El notebook Clasificación_porcentaje_beca trabaja con un df_model diseñado para categorizar el porcentaje de beca en niveles y entrenar modelos multiclase capaces de anticipar el rango de apoyo económico asignado.
++ El notebook Modelo_2_Clasificación_%e_beca trabaja con un df_model diseñado para categorizar el porcentaje de beca en niveles y entrenar modelos multiclase capaces de anticipar el rango de apoyo económico asignado.
 
-+ El notebook Modelos_clasificación_matriculado_nomatriculado tiene los modelos utilizados para predecir si el estudiante finalmente usa o no la beca, permitiendo analizar la efectividad real del programa. Adicionalmente, viene un notebook donde se revisó la linealidad de las variables explicatorias con la variable objetivo.
++ El notebook Modelo_3_clasificación_matriculado_nomatriculado tiene los modelos utilizados para predecir si el estudiante finalmente usa o no la beca, permitiendo analizar la efectividad real del programa. Adicionalmente, viene un notebook donde se revisó la linealidad de las variables explicatorias con la variable objetivo.
 
 En conjunto, estos notebooks documentan de forma ordenada y reproducible el flujo completo del proyecto, desde la exploración inicial de los datos hasta la construcción y evaluación final de los modelos predictivos.
 
