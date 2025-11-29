@@ -8,7 +8,7 @@ Este repositorio contiene los notebooks, datos procesados y modelos utilizados p
 
 El proyecto está compuesto por cinco notebooks que se complementan entre sí y que conforman el flujo total del análisis, la exploración de datos y la construcción de modelos predictivos para el programa Becas Talento de la Universidad EAFIT.
 
-Los datos originales de la convocatoria no se cargan ni se comparten en este repositorio, debido a su carácter confidencial y a la politica de protección y tratamiento de datos. En su lugar, cada notebook trabaja con datasets derivados y anonimizados, cargados como df_model, los cuales contienen únicamente las variables necesarias para cada modelo. Estos están nombrados deacuerdo con el modelo en los que fueron utilizados.
+Los datos originales de la convocatoria no se cargan ni se comparten en este repositorio, debido a su carácter confidencial y a la politica de protección y tratamiento de datos. En su lugar, cada notebook trabaja con datasets derivados y anonimizados, cargados como df_model, los cuales contienen únicamente las variables necesarias para cada modelo. Estos están nombrados de acuerdo con el modelo en los que fueron utilizados.
 
 Cada notebook cumple una función específica dentro del proceso: 
 
